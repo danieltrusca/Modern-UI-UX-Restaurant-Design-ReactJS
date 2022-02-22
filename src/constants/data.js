@@ -79,4 +79,6 @@ const awards = [
   },
 ];
 
-export default { wines, cocktails, awards };
+const logger_data={ wines, cocktails, awards };
+
+export default logger_data; 
